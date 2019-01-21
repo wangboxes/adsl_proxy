@@ -18,7 +18,7 @@ CLIENT_NAME = 'adsl1'
 ADSL_IFNAME = 'ppp0'
 
 # Redis数据库IP
-REDIS_HOST = '192.168.136.129'
+REDIS_HOST = 'localhost'
 
 # Redis数据库密码, 如无则填None
 REDIS_PASSWORD = None
